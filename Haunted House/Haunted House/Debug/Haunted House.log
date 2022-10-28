@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(148,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(158,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(451,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(468,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(474,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(568,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(595,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(622,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(649,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(698,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(724,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(750,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Header.h(776,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Source.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Source.cpp(201,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Source.cpp(215,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sivar\source\repos\Haunted House\Haunted House\Source.cpp(220,31): warning C4018: '<': signed/unsigned mismatch
+  Haunted House.vcxproj -> C:\Users\sivar\source\repos\Haunted House\Debug\Haunted House.exe
